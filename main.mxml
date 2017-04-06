@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml"
+        paddingLeft="0" paddingRight="0" paddingTop="0" paddingBottom="0"
+        xmlns:game="Game.*" width="520" height="570">
+    <game:Window width="100%" height="100%" />
+</mx:Application>
